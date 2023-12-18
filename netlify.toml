@@ -1,0 +1,9 @@
+[[redirects]]
+  from = "/index.html"
+  to = "/about-me.html"
+  status = 200
+
+[[redirects]]
+  from = "/index.html"
+  to = "/recent-posts.html"
+  status = 200
